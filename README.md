@@ -1,4 +1,5 @@
 # Face Recognition App Frontend
+This is a part of the project Face Recognition App. This part is the frontend built using React.
 
 The completed application can be viewed here: https://face-recognition-react-122.herokuapp.com/
 
